@@ -1,6 +1,6 @@
 # How to use
 ## 1. Download this repository
-## 2. Open unzip the .zip file and put if into a folder.
+## 2. Open unzip the .zip file and put the contents into a folder.
 ## 3. Open cmd and type in this command:
 `npm i`
 ---
