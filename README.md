@@ -10,4 +10,4 @@
 ### 6. Follow the built in instructions
 ### 7. Profit?
 ---
-# If you find any errors, please create a new Issue on GitHub."# noteTaker" 
+#### If you find any errors, please create a new Issue on GitHub.
