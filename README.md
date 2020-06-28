@@ -1,3 +1,4 @@
+Make sure to have node.js installed.
 # How to use
 ## 1. Download this repository
 ## 2. Open unzip the .zip file and put the contents into a folder.
