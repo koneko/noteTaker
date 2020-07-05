@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 Make sure to have node.js installed.
 # How to use
 ## 1. Download this repository
